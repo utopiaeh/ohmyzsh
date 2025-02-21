@@ -1,2 +1,8 @@
-plugins
-themes
+#Ignore all files in this directory
+*
+
+#Track specific files
+!/.gitignore
+!README.md
+!aliases.zsh
+!plugins.zsh

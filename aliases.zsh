@@ -12,7 +12,4 @@ alias hc='hasura console'
 alias tscl='npx tsc'
 
 
-alias kcp='cd ~/Developer/scripts && sh kill-ports.sh'
-
-#Run VPN
-alias ocd='cd ~/.vpn && sh vpndev.sh'
+alias kcp='cd ~/Developer/scripts && sh kill_ports.sh'
