@@ -31,6 +31,12 @@ Reload your shell to apply the new settings:
 source ~/.zshrc
 ```
 
+
+## ℹ **3. I also recommend applying the instructions for the .zprofile and .zshrc files in the repo.**
+Follow the instructions from this repo:
+```bash
+https://github.com/utopiaeh/zshrc-zprofile
+```
 ---
 
 ## ✅ **Done!**
